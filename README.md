@@ -1,6 +1,7 @@
 # Emotion-Detection
 
 ## 표정인식 기술을 이용한 이모지 매칭
+<img width="50%" src="https://user-images.githubusercontent.com/106513603/202381100-5b25ea19-6bb6-407d-9d5d-786d398ce40e.jpg"/>
 
 ## 팀 구성
 |이름|전공|
